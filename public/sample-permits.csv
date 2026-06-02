@@ -1,0 +1,13 @@
+permitNo,area,equipment,jobType,description,contractor,startTime,endTime,material,hazard,permitType
+PTW-2026-0602-001,BTX Unit,Sampling Rack SR-12,Sampling,샘플 봄베 연결 Tubing 교체 및 누설 확인,Daehan Maintenance,08:00,10:00,Benzene,Sampling Bombe Tubing Leak,Cold Work
+PTW-2026-0602-002,BTX Unit,P-204 Strainer,Mechanical,펌프 Strainer 분해 청소 및 손 협착 위험 확인,Daehan Maintenance,09:00,12:00,Toluene,손 끼임 협착,Line Open
+PTW-2026-0602-003,BTX Unit,Column C-301 Manway,Inspection,밀폐공간 내부 점검 및 질소 퍼지 후 산소농도 확인,SafeTech,10:00,15:00,N2,Confined Space Nitrogen,Confined Space
+PTW-2026-0602-004,Utility,Steam Trap ST-44,Repair,Steam Trap 교체와 Condensate 배출 작업,Hanul Plant Service,08:30,11:00,Condensate,고온 Steam 화상,Hot Work
+PTW-2026-0602-005,Utility,Transformer TR-2,Electrical,전기 판넬 점검 및 LOTO 확인,PowerOne,13:00,16:00,,Electrical LOTO,Electrical
+PTW-2026-0602-006,Tank Farm,TK-110 Roof,Inspection,탱크 루프 고소 작업 및 Scaffold 이동 통로 점검,HeightPro,09:00,14:00,Xylene,Working at Height 고소,Working at Height
+PTW-2026-0602-007,Tank Farm,TK-117 Nozzle,Mechanical,Flange Open 후 Drain 회수 라인 점검,GreenValve,10:30,13:30,Xylene,Flange Open Drain Leak,Line Open
+PTW-2026-0602-008,Olefin Unit,E-512 Exchanger,Hot Work,열교환기 주변 Welding 보수 및 LEL 측정,FireGuard,08:00,12:00,,Hot Work Welding LEL,Hot Work
+PTW-2026-0602-009,Olefin Unit,Pipe Rack PR-7,Lifting,Crane 사용 중량물 인양 및 작업반경 통제,LiftMax,14:00,17:00,,Crane Lifting 중량물,Lifting
+PTW-2026-0602-010,Olefin Unit,V-210 Vessel,Line Open,Vent 개방 후 잔압 제거 및 가스측정,GreenValve,11:00,15:00,Benzene,Line Open Vent Leak,Line Open
+PTW-2026-0602-011,Packaging,Conveyor CV-3,Maintenance,Conveyor 롤러 교체 중 손가락 협착 방지,InHouse,08:00,09:30,,손가락 협착 Pump,Cold Work
+PTW-2026-0602-012,Loading Bay,Truck Grounding,Electrical,탱크로리 접지 케이블 점검 및 정전기 위험 확인,InHouse,07:30,09:00,Toluene,Electrical 전기 감전,Electrical
